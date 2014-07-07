@@ -1,0 +1,289 @@
+{
+    "0": {
+        "categoryID": "0",
+        "categoryName": "#System",
+        "description": "",
+        "iconID": "NULL",
+        "published": "0"
+    },
+    "1": {
+        "categoryID": "1",
+        "categoryName": "Owner",
+        "description": "",
+        "iconID": "NULL",
+        "published": "0"
+    },
+    "2": {
+        "categoryID": "2",
+        "categoryName": "Celestial",
+        "description": "",
+        "iconID": "NULL",
+        "published": "1"
+    },
+    "3": {
+        "categoryID": "3",
+        "categoryName": "Station",
+        "description": "",
+        "iconID": "NULL",
+        "published": "0"
+    },
+    "4": {
+        "categoryID": "4",
+        "categoryName": "Material",
+        "description": "",
+        "iconID": "22",
+        "published": "1"
+    },
+    "5": {
+        "categoryID": "5",
+        "categoryName": "Accessories",
+        "description": "",
+        "iconID": "33",
+        "published": "1"
+    },
+    "6": {
+        "categoryID": "6",
+        "categoryName": "Ship",
+        "description": "",
+        "iconID": "NULL",
+        "published": "1"
+    },
+    "7": {
+        "categoryID": "7",
+        "categoryName": "Module",
+        "description": "",
+        "iconID": "67",
+        "published": "1"
+    },
+    "8": {
+        "categoryID": "8",
+        "categoryName": "Charge",
+        "description": "",
+        "iconID": "NULL",
+        "published": "1"
+    },
+    "9": {
+        "categoryID": "9",
+        "categoryName": "Blueprint",
+        "description": "",
+        "iconID": "21",
+        "published": "1"
+    },
+    "10": {
+        "categoryID": "10",
+        "categoryName": "Trading",
+        "description": "",
+        "iconID": "NULL",
+        "published": "0"
+    },
+    "11": {
+        "categoryID": "11",
+        "categoryName": "Entity",
+        "description": "",
+        "iconID": "NULL",
+        "published": "0"
+    },
+    "14": {
+        "categoryID": "14",
+        "categoryName": "Bonus",
+        "description": "Character creation bonuses.  Like innate skills but genetic rather than learned.",
+        "iconID": "0",
+        "published": "0"
+    },
+    "16": {
+        "categoryID": "16",
+        "categoryName": "Skill",
+        "description": "Where all the skills go under.",
+        "iconID": "33",
+        "published": "1"
+    },
+    "17": {
+        "categoryID": "17",
+        "categoryName": "Commodity",
+        "description": "",
+        "iconID": "0",
+        "published": "1"
+    },
+    "18": {
+        "categoryID": "18",
+        "categoryName": "Drone",
+        "description": "Player owned and controlled drones.",
+        "iconID": "0",
+        "published": "1"
+    },
+    "20": {
+        "categoryID": "20",
+        "categoryName": "Implant",
+        "description": "Implant",
+        "iconID": "0",
+        "published": "1"
+    },
+    "22": {
+        "categoryID": "22",
+        "categoryName": "Deployable",
+        "description": "",
+        "iconID": "0",
+        "published": "1"
+    },
+    "23": {
+        "categoryID": "23",
+        "categoryName": "Structure",
+        "description": "Player owned structure related objects",
+        "iconID": "0",
+        "published": "1"
+    },
+    "24": {
+        "categoryID": "24",
+        "categoryName": "Reaction",
+        "description": "",
+        "iconID": "0",
+        "published": "1"
+    },
+    "25": {
+        "categoryID": "25",
+        "categoryName": "Asteroid",
+        "description": "",
+        "iconID": "NULL",
+        "published": "1"
+    },
+    "26": {
+        "categoryID": "26",
+        "categoryName": "WorldSpace",
+        "description": "Worldspaces and related stuff",
+        "iconID": "NULL",
+        "published": "0"
+    },
+    "29": {
+        "categoryID": "29",
+        "categoryName": "Abstract",
+        "description": "Abstract grouping, global types and groups for the UI, such as Ranks, Ribbons and Medals.",
+        "iconID": "NULL",
+        "published": "0"
+    },
+    "30": {
+        "categoryID": "30",
+        "categoryName": "Apparel",
+        "description": "1. clothing, especially outerwear; garments; attire; raiment.",
+        "iconID": "",
+        "published": ""
+    },
+    "32": {
+        "categoryID": "32",
+        "categoryName": "Subsystem",
+        "description": "Subsystems for tech 3 ships",
+        "iconID": "NULL",
+        "published": "1"
+    },
+    "34": {
+        "categoryID": "34",
+        "categoryName": "Ancient Relics",
+        "description": "",
+        "iconID": "NULL",
+        "published": "1"
+    },
+    "35": {
+        "categoryID": "35",
+        "categoryName": "Decryptors",
+        "description": "",
+        "iconID": "NULL",
+        "published": "1"
+    },
+    "39": {
+        "categoryID": "39",
+        "categoryName": "Infrastructure Upgrades",
+        "description": "",
+        "iconID": "NULL",
+        "published": "1"
+    },
+    "40": {
+        "categoryID": "40",
+        "categoryName": "Sovereignty Structures",
+        "description": "",
+        "iconID": "NULL",
+        "published": "1"
+    },
+    "41": {
+        "categoryID": "41",
+        "categoryName": "Planetary Interaction",
+        "description": "Stuff for planetary interaction",
+        "iconID": "NULL",
+        "published": "1"
+    },
+    "42": {
+        "categoryID": "42",
+        "categoryName": "Planetary Resources",
+        "description": "These are Items that can be extracted from a planet. ",
+        "iconID": "NULL",
+        "published": "1"
+    },
+    "43": {
+        "categoryID": "43",
+        "categoryName": "Planetary Commodities",
+        "description": "",
+        "iconID": "NULL",
+        "published": "1"
+    },
+    "46": {
+        "categoryID": "46",
+        "categoryName": "Orbitals",
+        "description": "Anchorable/Onlinable objects that operate similar to POS/SOV structures, but do not link to towers or sovereignty. Each class of orbital defines its own valid anchoring locations via Python code.",
+        "iconID": "NULL",
+        "published": "1"
+    },
+    "49": {
+        "categoryID": "49",
+        "categoryName": "Placeables",
+        "description": "Placeables are things you can put into rooms. ",
+        "iconID": "NULL",
+        "published": "0"
+    },
+    "53": {
+        "categoryID": "53",
+        "categoryName": "Effects",
+        "description": "",
+        "iconID": "NULL",
+        "published": "0"
+    },
+    "54": {
+        "categoryID": "54",
+        "categoryName": "Lights",
+        "description": "",
+        "iconID": "NULL",
+        "published": "0"
+    },
+    "59": {
+        "categoryID": "59",
+        "categoryName": "Cells",
+        "description": "",
+        "iconID": "NULL",
+        "published": "0"
+    },
+    "63": {
+        "categoryID": "63",
+        "categoryName": "Special Edition Assets",
+        "description": "Special Edition Assets",
+        "iconID": "NULL",
+        "published": "1"
+    },
+    "350001": {
+        "categoryID": "350001",
+        "categoryName": "Infantry",
+        "description": "",
+        "iconID": "NULL",
+        "published": "0"
+    },
+    "2. anything that decorates or covers.": {
+        "categoryID": "2. anything that decorates or covers.",
+        "categoryName": "",
+        "description": "",
+        "iconID": "",
+        "published": ""
+    },
+    "3. superficial appearance; aspect; guise. ": {
+        "categoryID": "3. superficial appearance; aspect; guise. ",
+        "categoryName": "NULL",
+        "description": "1",
+        "iconID": "",
+        "published": ""
+    }
+}

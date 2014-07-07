@@ -1,0 +1,92 @@
+{
+    "1": {
+        "metaGroupID": "1",
+        "metaGroupName": "Tech I",
+        "description": "NULL",
+        "iconID": "NULL"
+    },
+    "2": {
+        "metaGroupID": "2",
+        "metaGroupName": "Tech II",
+        "description": "NULL",
+        "iconID": "NULL"
+    },
+    "3": {
+        "metaGroupID": "3",
+        "metaGroupName": "Storyline",
+        "description": "NULL",
+        "iconID": "NULL"
+    },
+    "4": {
+        "metaGroupID": "4",
+        "metaGroupName": "Faction",
+        "description": "NULL",
+        "iconID": "NULL"
+    },
+    "5": {
+        "metaGroupID": "5",
+        "metaGroupName": "Officer",
+        "description": "NULL",
+        "iconID": "NULL"
+    },
+    "6": {
+        "metaGroupID": "6",
+        "metaGroupName": "Deadspace",
+        "description": "Modules found in deadspace.",
+        "iconID": "NULL"
+    },
+    "7": {
+        "metaGroupID": "7",
+        "metaGroupName": "Frigates",
+        "description": "NULL",
+        "iconID": "NULL"
+    },
+    "8": {
+        "metaGroupID": "8",
+        "metaGroupName": "Elite Frigates",
+        "description": "NULL",
+        "iconID": "NULL"
+    },
+    "9": {
+        "metaGroupID": "9",
+        "metaGroupName": "Commander Frigates",
+        "description": "NULL",
+        "iconID": "NULL"
+    },
+    "10": {
+        "metaGroupID": "10",
+        "metaGroupName": "Destroyer",
+        "description": "NULL",
+        "iconID": "NULL"
+    },
+    "11": {
+        "metaGroupID": "11",
+        "metaGroupName": "Cruiser",
+        "description": "NULL",
+        "iconID": "NULL"
+    },
+    "12": {
+        "metaGroupID": "12",
+        "metaGroupName": "Elite Cruiser",
+        "description": "NULL",
+        "iconID": "NULL"
+    },
+    "13": {
+        "metaGroupID": "13",
+        "metaGroupName": "Commander Cruiser",
+        "description": "NULL",
+        "iconID": "NULL"
+    },
+    "14": {
+        "metaGroupID": "14",
+        "metaGroupName": "Tech III",
+        "description": "NULL",
+        "iconID": "NULL"
+    },
+    "": {
+        "metaGroupID": "",
+        "metaGroupName": "",
+        "description": "",
+        "iconID": ""
+    }
+}
